@@ -1,2 +1,2 @@
-# Flixy-Beta
+# Flixy
 flixyyy
